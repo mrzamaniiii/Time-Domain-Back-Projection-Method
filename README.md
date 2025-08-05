@@ -1,8 +1,8 @@
-# 🛰️ Radar Imaging using Time Domain Back Projection (TDBP)
+# Radar Imaging using Time Domain Back Projection (TDBP)
 
 This MATLAB project reconstructs Synthetic Aperture Radar (SAR) images using the Time Domain Back Projection (TDBP) algorithm. The data is collected via UAV-based radar, and the project includes signal processing techniques for range resolution, image focusing, despeckling, reflector-based resolution analysis, and trajectory noise impact assessment.
 
-## 📁 Project Structure
+## Project Structure
 
 | File | Description |
 |------|-------------|
@@ -17,7 +17,7 @@ This MATLAB project reconstructs Synthetic Aperture Radar (SAR) images using the
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 - **TDBP Algorithm**: High-resolution SAR imaging by integrating radar returns over a 2D grid.
 - **Range Resolution**: Assessed using both known bandwidth and estimated from signal FFT.
@@ -27,7 +27,7 @@ This MATLAB project reconstructs Synthetic Aperture Radar (SAR) images using the
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Open MATLAB.
 2. Ensure all `.m` files and `dataset_UAV.mat` are in the same folder or in your MATLAB path.
