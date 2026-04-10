@@ -1,6 +1,6 @@
 # Radar Imaging using Time Domain Back Projection (TDBP)
 
-<img width="416" height="310" alt="Despeckled Image" src="https://github.com/user-attachments/assets/7726b8c5-f052-4e18-ad16-764e84a13bb0" />
+<img width="410" height="304" alt="Despeckled Image" src="https://github.com/user-attachments/assets/7726b8c5-f052-4e18-ad16-764e84a13bb0" />
 
 ## Project Structure
 
