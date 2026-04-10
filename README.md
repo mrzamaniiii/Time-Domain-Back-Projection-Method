@@ -13,8 +13,6 @@
 | `despeckling.m` | Reduces speckle noise using moving average filters (3×3, 5×5, 7×7) |
 | `corner_reflectors.m` | Analyzes focused SAR patch and computes azimuth & range resolution |
 | `trajectory_errors.m` | Simulates increasing UAV trajectory noise and visualizes impact on SAR image |
-| `mohammadreza_zamani_HW2_10869960.pdf` | Report explaining methodology, results, and key visualizations |
-
 ---
 
 ## Key Concepts
